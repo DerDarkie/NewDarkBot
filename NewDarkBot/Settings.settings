@@ -1,0 +1,30 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<SettingsFile xmlns="http://schemas.microsoft.com/VisualStudio/2004/01/settings" CurrentProfile="(Default)" GeneratedClassNamespace="NewDarkBot" GeneratedClassName="Settings">
+  <Profiles />
+  <Settings>
+    <Setting Name="botname" Type="System.String" Scope="User">
+      <Value Profile="(Default)">der_darkiebot</Value>
+    </Setting>
+    <Setting Name="oauth" Type="System.String" Scope="User">
+      <Value Profile="(Default)">f8ujic6q5tdvm7xz0vw15d64urasdg</Value>
+    </Setting>
+    <Setting Name="channel" Type="System.String" Scope="User">
+      <Value Profile="(Default)">der_darkie</Value>
+    </Setting>
+    <Setting Name="clientid" Type="System.String" Scope="User">
+      <Value Profile="(Default)">gp762nuuoqcoxypju8c569th9wz7q5</Value>
+    </Setting>
+    <Setting Name="apiclientid" Type="System.String" Scope="User">
+      <Value Profile="(Default)">txqkpyfvcc7omckl47gugyubsw31ak</Value>
+    </Setting>
+    <Setting Name="apisecret" Type="System.String" Scope="User">
+      <Value Profile="(Default)">zyksswdg5uqfd2vpq3z6i7b9sxmunx</Value>
+    </Setting>
+    <Setting Name="wowapiclientid" Type="System.String" Scope="User">
+      <Value Profile="(Default)">c83ab1b89bfe4c96b5eb5b6e997a47cc</Value>
+    </Setting>
+    <Setting Name="wowapisecret" Type="System.String" Scope="User">
+      <Value Profile="(Default)">yq2jhvhfDQy9z0TgLjJS3A2VZGVVpNGY</Value>
+    </Setting>
+  </Settings>
+</SettingsFile>

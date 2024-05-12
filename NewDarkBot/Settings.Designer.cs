@@ -17,7 +17,7 @@ namespace NewDarkBot {
         
         [global::System.Configuration.UserScopedSettingAttribute()]
         [global::System.Diagnostics.DebuggerNonUserCodeAttribute()]
-        [global::System.Configuration.DefaultSettingValueAttribute("der_darkiebot")]
+        [global::System.Configuration.DefaultSettingValueAttribute("")]
         public string botname {
             get {
                 return ((string)(this["botname"]));
@@ -29,7 +29,7 @@ namespace NewDarkBot {
         
         [global::System.Configuration.UserScopedSettingAttribute()]
         [global::System.Diagnostics.DebuggerNonUserCodeAttribute()]
-        [global::System.Configuration.DefaultSettingValueAttribute("f8ujic6q5tdvm7xz0vw15d64urasdg")]
+        [global::System.Configuration.DefaultSettingValueAttribute("")]
         public string oauth {
             get {
                 return ((string)(this["oauth"]));
@@ -41,7 +41,7 @@ namespace NewDarkBot {
         
         [global::System.Configuration.UserScopedSettingAttribute()]
         [global::System.Diagnostics.DebuggerNonUserCodeAttribute()]
-        [global::System.Configuration.DefaultSettingValueAttribute("der_darkie")]
+        [global::System.Configuration.DefaultSettingValueAttribute("")]
         public string channel {
             get {
                 return ((string)(this["channel"]));
@@ -53,7 +53,7 @@ namespace NewDarkBot {
         
         [global::System.Configuration.UserScopedSettingAttribute()]
         [global::System.Diagnostics.DebuggerNonUserCodeAttribute()]
-        [global::System.Configuration.DefaultSettingValueAttribute("gp762nuuoqcoxypju8c569th9wz7q5")]
+        [global::System.Configuration.DefaultSettingValueAttribute("")]
         public string clientid {
             get {
                 return ((string)(this["clientid"]));
@@ -65,7 +65,7 @@ namespace NewDarkBot {
         
         [global::System.Configuration.UserScopedSettingAttribute()]
         [global::System.Diagnostics.DebuggerNonUserCodeAttribute()]
-        [global::System.Configuration.DefaultSettingValueAttribute("txqkpyfvcc7omckl47gugyubsw31ak")]
+        [global::System.Configuration.DefaultSettingValueAttribute("")]
         public string apiclientid {
             get {
                 return ((string)(this["apiclientid"]));
@@ -77,7 +77,7 @@ namespace NewDarkBot {
         
         [global::System.Configuration.UserScopedSettingAttribute()]
         [global::System.Diagnostics.DebuggerNonUserCodeAttribute()]
-        [global::System.Configuration.DefaultSettingValueAttribute("zyksswdg5uqfd2vpq3z6i7b9sxmunx")]
+        [global::System.Configuration.DefaultSettingValueAttribute("")]
         public string apisecret {
             get {
                 return ((string)(this["apisecret"]));
@@ -89,7 +89,7 @@ namespace NewDarkBot {
         
         [global::System.Configuration.UserScopedSettingAttribute()]
         [global::System.Diagnostics.DebuggerNonUserCodeAttribute()]
-        [global::System.Configuration.DefaultSettingValueAttribute("c83ab1b89bfe4c96b5eb5b6e997a47cc")]
+        [global::System.Configuration.DefaultSettingValueAttribute("")]
         public string wowapiclientid {
             get {
                 return ((string)(this["wowapiclientid"]));
@@ -101,7 +101,7 @@ namespace NewDarkBot {
         
         [global::System.Configuration.UserScopedSettingAttribute()]
         [global::System.Diagnostics.DebuggerNonUserCodeAttribute()]
-        [global::System.Configuration.DefaultSettingValueAttribute("yq2jhvhfDQy9z0TgLjJS3A2VZGVVpNGY")]
+        [global::System.Configuration.DefaultSettingValueAttribute("")]
         public string wowapisecret {
             get {
                 return ((string)(this["wowapisecret"]));
